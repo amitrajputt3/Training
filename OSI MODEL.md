@@ -4,7 +4,7 @@ The OSI model provides a theoretical foundation for understanding network commun
 
 The 7 layers of the OSI Model
 - Applicaton Layer
-- Prestation Layer
+- Presentation Layer
 - Session Layer
 - Transport Layer
 - Network Layer
@@ -12,4 +12,4 @@ The 7 layers of the OSI Model
 - Physical Layer
 
 1. Application Layer
-   
+2. Presentation Layer
