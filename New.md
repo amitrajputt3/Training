@@ -4,7 +4,7 @@ All these 7 layers work collaboratively to transmit the data from one person to 
 The OSI model provides a theoretical foundation for understanding network communication. However it is usually not directly implemented in its entirety in real-world networking hardware or software.
 Instead, specific protocols and technologies are often designed based on the principles outlined in the OSI model to facilitate efficient data transmission and networking operations.
 
-#### 1. Application Layer
+### 1. Application Layer
 
 - The topmost layer that interacts directly with user applications.
 - Provides network services to applications (e.g., email, web browsing, file transfer).
